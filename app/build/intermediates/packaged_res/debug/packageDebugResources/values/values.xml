@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="azul">#1565C0</color>
+    <color name="blanco">#FFFFFF</color>
+    <color name="fondo">#F2F6F2</color>
+    <color name="gris_claro">#F5F5F5</color>
+    <color name="gris_texto">#666666</color>
+    <color name="morado">#6A1B9A</color>
+    <color name="naranja">#E65100</color>
+    <color name="negro_texto">#212121</color>
+    <color name="rojo_gasto">#C62828</color>
+    <color name="verde_claro">#4CAF50</color>
+    <color name="verde_primario">#1B5E20</color>
+    <string name="app_name">MisFinanzas</string>
+    <string name="formato_transacciones">%d transacciones</string>
+    <string name="sin_transacciones">No hay transacciones</string>
+    <string name="titulo_balance">Balance</string>
+    <string name="titulo_gastos">Gastos</string>
+    <string name="titulo_ingresos">Ingresos</string>
+    <style name="Theme.MisFinanzas" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/verde_primario</item>
+        <item name="colorPrimaryVariant">@color/verde_claro</item>
+        <item name="colorOnPrimary">@color/blanco</item>
+    </style>
+</resources>

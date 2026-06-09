@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.ejemplo.misfinanzas.app-mergeDebugResources-41:/layout/activity_main.xml",
+        "source": "com.ejemplo.misfinanzas.app-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ejemplo.misfinanzas.app-mergeDebugResources-41:/layout/fragment_transacciones.xml",
+        "source": "com.ejemplo.misfinanzas.app-main-44:/layout/fragment_transacciones.xml"
+    },
+    {
+        "merged": "com.ejemplo.misfinanzas.app-mergeDebugResources-41:/layout/fragment_inicio.xml",
+        "source": "com.ejemplo.misfinanzas.app-main-44:/layout/fragment_inicio.xml"
+    },
+    {
+        "merged": "com.ejemplo.misfinanzas.app-mergeDebugResources-41:/layout/activity_agregar.xml",
+        "source": "com.ejemplo.misfinanzas.app-main-44:/layout/activity_agregar.xml"
+    },
+    {
+        "merged": "com.ejemplo.misfinanzas.app-mergeDebugResources-41:/layout/item_transaccion.xml",
+        "source": "com.ejemplo.misfinanzas.app-main-44:/layout/item_transaccion.xml"
+    },
+    {
+        "merged": "com.ejemplo.misfinanzas.app-mergeDebugResources-41:/layout/fragment_estadisticas.xml",
+        "source": "com.ejemplo.misfinanzas.app-main-44:/layout/fragment_estadisticas.xml"
+    }
+]
