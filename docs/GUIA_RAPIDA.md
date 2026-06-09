@@ -141,7 +141,7 @@
 |----------|---------|-------|---------|
 | URL base de la API | [api/RetrofitClient.kt](../app/src/main/java/com/ejemplo/misfinanzas/api/RetrofitClient.kt#L8) | 8 | `BASE_URL = "https://api.exchangerate-api.com/v4/"` |
 | Singleton del cliente | [api/RetrofitClient.kt](../app/src/main/java/com/ejemplo/misfinanzas/api/RetrofitClient.kt#L6-L17) | 6-17 | `object RetrofitClient { val apiService by lazy { ... } }` |
-| Definir endpoint | [api/ApiService.kt](../app/src/main/java/com/ejemplo/misfinanzas/api/ApiService.kt#L8-L11) | 8-11 | `@GET("latest") suspend fun obtenerTasas(@Query("base") ...)` |
+| Definir endpoint | [api/ApiService.kt](../app/src/main/java/com/ejemplo/misfinanzas/api/ApiService.kt#L8-L11) | 8-11 | `@GET("latest/{base}") suspend fun obtenerTasas(@Path("base") ...)` — genera URL `.../v4/latest/USD` |
 | Modelo de la respuesta JSON | [api/TasaCambioResponse.kt](../app/src/main/java/com/ejemplo/misfinanzas/api/TasaCambioResponse.kt) | 1-5 | `data class TasaCambioResponse(val base, val rates: Map<String, Double>)` |
 | Estados posibles | [api/ResultadoApi.kt](../app/src/main/java/com/ejemplo/misfinanzas/api/ResultadoApi.kt#L3-L7) | 3-7 | `sealed class`: `Cargando`, `Exito(datos)`, `Error(mensaje)` |
 | Llamada con manejo de error | [MainViewModel.kt](../app/src/main/java/com/ejemplo/misfinanzas/MainViewModel.kt#L56-L72) | 56-72 | `try/catch` con `withContext(Dispatchers.IO)` |

@@ -1,50 +1,54 @@
 [
     {
-        "merged": "com.ejemplo.misfinanzas.app-debug-42:/drawable_bg_monto_ingreso.xml.flat",
-        "source": "com.ejemplo.misfinanzas.app-main-44:/drawable/bg_monto_ingreso.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.ejemplo.misfinanzas.app-debug-42:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.ejemplo.misfinanzas.app-main-44:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.ejemplo.misfinanzas.app-debug-42:/drawable_bg_balance_gradient.xml.flat",
-        "source": "com.ejemplo.misfinanzas.app-main-44:/drawable/bg_balance_gradient.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.ejemplo.misfinanzas.app-debug-42:\\layout_item_transaccion.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.ejemplo.misfinanzas.app-main-44:\\layout\\item_transaccion.xml"
     },
     {
-        "merged": "com.ejemplo.misfinanzas.app-debug-42:/layout_fragment_transacciones.xml.flat",
-        "source": "com.ejemplo.misfinanzas.app-main-44:/layout/fragment_transacciones.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.ejemplo.misfinanzas.app-debug-42:\\drawable_bg_monto_gasto.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.ejemplo.misfinanzas.app-main-44:\\drawable\\bg_monto_gasto.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.ejemplo.misfinanzas.app-debug-42:\\drawable_bg_icon_circle.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.ejemplo.misfinanzas.app-main-44:\\drawable\\bg_icon_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.ejemplo.misfinanzas.app-debug-42:\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.ejemplo.misfinanzas.app-main-44:\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.ejemplo.misfinanzas.app-debug-42:\\drawable_bg_monto_ingreso.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.ejemplo.misfinanzas.app-main-44:\\drawable\\bg_monto_ingreso.xml"
     },
     {
         "merged": "com.ejemplo.misfinanzas.app-debug-42:/layout_activity_main.xml.flat",
         "source": "com.ejemplo.misfinanzas.app-main-44:/layout/activity_main.xml"
     },
     {
-        "merged": "com.ejemplo.misfinanzas.app-debug-42:/drawable_ic_add.xml.flat",
-        "source": "com.ejemplo.misfinanzas.app-main-44:/drawable/ic_add.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.ejemplo.misfinanzas.app-debug-42:\\layout_fragment_transacciones.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.ejemplo.misfinanzas.app-main-44:\\layout\\fragment_transacciones.xml"
     },
     {
-        "merged": "com.ejemplo.misfinanzas.app-debug-42:/layout_activity_agregar.xml.flat",
-        "source": "com.ejemplo.misfinanzas.app-main-44:/layout/activity_agregar.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.ejemplo.misfinanzas.app-debug-42:\\layout_activity_agregar.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.ejemplo.misfinanzas.app-main-44:\\layout\\activity_agregar.xml"
     },
     {
-        "merged": "com.ejemplo.misfinanzas.app-debug-42:/layout_fragment_inicio.xml.flat",
-        "source": "com.ejemplo.misfinanzas.app-main-44:/layout/fragment_inicio.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.ejemplo.misfinanzas.app-debug-42:\\layout_fragment_estadisticas.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.ejemplo.misfinanzas.app-main-44:\\layout\\fragment_estadisticas.xml"
     },
     {
-        "merged": "com.ejemplo.misfinanzas.app-debug-42:/layout_fragment_estadisticas.xml.flat",
-        "source": "com.ejemplo.misfinanzas.app-main-44:/layout/fragment_estadisticas.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.ejemplo.misfinanzas.app-debug-42:\\drawable_bg_balance_gradient.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.ejemplo.misfinanzas.app-main-44:\\drawable\\bg_balance_gradient.xml"
     },
     {
-        "merged": "com.ejemplo.misfinanzas.app-debug-42:/drawable_bg_icon_circle.xml.flat",
-        "source": "com.ejemplo.misfinanzas.app-main-44:/drawable/bg_icon_circle.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.ejemplo.misfinanzas.app-debug-42:\\layout_fragment_inicio.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.ejemplo.misfinanzas.app-main-44:\\layout\\fragment_inicio.xml"
     },
     {
-        "merged": "com.ejemplo.misfinanzas.app-debug-42:/menu_bottom_menu.xml.flat",
-        "source": "com.ejemplo.misfinanzas.app-main-44:/menu/bottom_menu.xml"
-    },
-    {
-        "merged": "com.ejemplo.misfinanzas.app-debug-42:/layout_item_transaccion.xml.flat",
-        "source": "com.ejemplo.misfinanzas.app-main-44:/layout/item_transaccion.xml"
-    },
-    {
-        "merged": "com.ejemplo.misfinanzas.app-debug-42:/drawable_bg_monto_gasto.xml.flat",
-        "source": "com.ejemplo.misfinanzas.app-main-44:/drawable/bg_monto_gasto.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.ejemplo.misfinanzas.app-debug-42:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.ejemplo.misfinanzas.app-main-44:\\drawable\\ic_add.xml"
     }
 ]
