@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MisFinanzas</string>
+    <string name="titulo_balance">Balance</string>
+    <string name="titulo_ingresos">Ingresos</string>
+    <string name="titulo_gastos">Gastos</string>
+    <string name="sin_transacciones">No hay transacciones</string>
+    <string name="formato_transacciones">%d transacciones</string>
+</resources>
